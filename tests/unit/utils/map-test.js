@@ -1,4 +1,4 @@
-import { loadMap } from 'ambitious-arcgis-app-2019/utils/map';
+import { loadMap } from '../../../utils/map';
 import { module, test } from 'qunit';
 
 module('Unit | Utility | map', function(/* hooks */) {
