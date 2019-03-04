@@ -22,6 +22,7 @@ module.exports = function(environment) {
       providers: {
        'arcgis-oauth-bearer': {
           apiKey: 'qVKIgDFn8LEUvfWH',
+          portalUrl: 'https://www.arcgis.com'
         }
       }
     },
